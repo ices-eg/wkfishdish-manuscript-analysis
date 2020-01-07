@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3600591.svg)](https://doi.org/10.5281/zenodo.3600591)
+
 # wkfishdish-manuscript-analysis
 
 This repository holds code to reproduce the analysis of changes in the 
