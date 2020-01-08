@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3600591.svg)](https://doi.org/10.5281/zenodo.3600591)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3600590.svg)](https://doi.org/10.5281/zenodo.3600590)
 
 # wkfishdish-manuscript-analysis
 
